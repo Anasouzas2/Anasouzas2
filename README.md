@@ -2,9 +2,9 @@
 
 ## 👧🏽 Sobre mim
 
-#### Tenho 23 anos e atualmente estou conciliando meu trabalho como Instrutora de Treinamento e o curso superior em Análise e Desenvolvimento de Sistemas, desbravando o ramo da tecnología com foco em Front-end que me interessa tanto.
+Tenho 23 anos e atualmente estou conciliando meu trabalho como Instrutora de Treinamento e o curso superior em Análise e Desenvolvimento de Sistemas, desbravando o ramo da tecnología com foco em Front-end que me interessa tanto.
 
-#### Sou autodidata e amo aprender coisas novas! Amante de vinho, música, idiomas, natureza e extremamente apaixonada pelos meus filhos pets: Zoe 🐶 e Zeus 😺!
+Sou autodidata e amo aprender coisas novas! Amante de vinho, música, idiomas, natureza e extremamente apaixonada pelos meus filhos pets: Zoe 🐶 e Zeus 😺!
 ----
 ## 💬 Idiomas
 | Idioma | Proficiência|
